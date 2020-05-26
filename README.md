@@ -1,8 +1,8 @@
-# Animated Bottom NavigationBar Flutter
-Flutter component concept created with [Flutter](https://flutter.dev/) using Dart programming language, inspired by [this](https://br.pinterest.com/pin/862580134860504431/). 
+# Flutter animation challenge 8 - Floating bottom bar
+> Creator: Qani Ajdini
 
 ## About
-This component was created inspired by the GIF at the end of this page. The component is using Animations, Clip Path, Transform and Stream's proprieties to better simulate the inspiration GIF.
+The component is using Animations, Clip Path, Transform and Stream's proprieties.
 
 ### The Constructor Data Fields
 ````dart
@@ -16,13 +16,11 @@ final List<IconData> buttonsHiddenIcons; //Icons to hidden buttons
 final Color backgroundColorMiddleIcon; //Background of middle button
 ````
     
-### The Inspiration
-The GIF below shows the inspiration component.
+## Design
 
 ![App Running](./docs/inspiration.gif)
 
-### The App
-The GIF below shows this current component running.
+## Implementation
 
 ![App Running](./docs/app_running.gif)
 
