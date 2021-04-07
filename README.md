@@ -1,5 +1,4 @@
 # Flutter animation challenge 8 - Floating bottom bar
-> Creator: Qani Ajdini
 
 ## About
 The component is using Animations, Clip Path, Transform and Stream's proprieties.
